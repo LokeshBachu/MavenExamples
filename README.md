@@ -1,1 +1,1 @@
-Jenkin Maven Examples
+Maven Examples
